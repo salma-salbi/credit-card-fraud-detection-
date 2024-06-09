@@ -16,11 +16,11 @@ Assurez-vous d'avoir installé les éléments suivants :
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/votre_nom/votre_projet.git
+    git clone https://github.com/salma-salbi/credit-card-fraud-detection.git
     ```
 2. Naviguez dans le répertoire du projet :
     ```sh
-    cd votre_projet
+    cd credit-card-fraud-detection
     ```
 3. Créez un environnement virtuel et activez-le :
     ```sh
