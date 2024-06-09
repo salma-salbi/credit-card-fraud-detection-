@@ -36,4 +36,4 @@ Assurez-vous d'avoir installé les éléments suivants :
 
 Pour exécuter le notebook Jupyter, utilisez la commande suivante :
 ```sh
-jupyter notebook creditcard.ipynb
+jupyter notebook creditcard(3).ipynb
